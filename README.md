@@ -29,4 +29,4 @@ curl -X POST -H "Content-Type: application/json" -d "{\"text\":\"{Text}\",\"chat
 To send a notification to a Telegram channel:
 curl -X POST -H "Content-Type: application/json" -d "{\"text\":\"{Text}\",\"chat_id\":\"{ChatID}\"}" http://example.com:5000/receive_data
 
-I hope this translation is helpful!
+I hope this Script is helpful!
